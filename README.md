@@ -20,7 +20,7 @@
 <h2>--首頁--</h2>
 <p>如下圖所示</p>
 <img src="https://20221130.000webhostapp.com/images/movie.png" width="200">
-<h2>--本月新片--</h2>
+<h2>--上映中電影--</h2>
 <p>如下圖所示</p>
 <img src="https://20221130.000webhostapp.com/images/movie3.png" width="200">>
 <h2>--上映中排行榜--</h2>
