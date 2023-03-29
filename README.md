@@ -23,10 +23,13 @@
 <img src="https://20221130.000webhostapp.com/images/movie.png" width="100%" >
 <h2>--上映中電影--</h2>
 <p>上映中電影介紹、背景動畫</p>
+    <a href="https://www.youtube.com/watch?v=YhXxBhInJMI">參考資料1</a>
 <p>如下圖所示</p>
 <img src="https://20221130.000webhostapp.com/images/movie3.png" width="100%">
 <h2>--上映中排行榜--</h2>
 <p>上映中電影點擊次數的排行榜、背景動畫、icon</p>
+    <a href="https://codepen.io/diyorbek0309/pen/mdwbEve">參考資料2</a>
+    <a href="https://www.youtube.com/watch?v=HoLyH5zQXqs">參考資料3</a>
 <p>如下圖所示</p>
 <img src="https://20221130.000webhostapp.com/images/movie4.png" width="100%">
 <h2>--會員註冊--</h2>
@@ -36,7 +39,7 @@
 <p>如下圖所示</p>
 <img src="https://20221130.000webhostapp.com/images/movie6.png" width="100%">
 <h2>--公廁地圖--</h2>
-<p>地址、opendata、icon</p>
+<p>Leaflet 、地址、opendata(全國公廁建檔資料)、icon</p>
 <p>如下圖所示</p>
 <img src="https://20221130.000webhostapp.com/images/movie7.png" width="100%">
 
