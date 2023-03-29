@@ -22,20 +22,20 @@
 <img src="https://20221130.000webhostapp.com/images/movie.png" width="100%" >
 <h2>--上映中電影--</h2>
 <p>如下圖所示</p>
-<img src="https://20221130.000webhostapp.com/images/movie3.png" width="200">
+<img src="https://20221130.000webhostapp.com/images/movie3.png" width="100%">
 <h2>--上映中排行榜--</h2>
 <p>上映中電影點擊次數的排行榜</p>
 <p>如下圖所示</p>
-<img src="https://20221130.000webhostapp.com/images/movie4.png" width="200">
+<img src="https://20221130.000webhostapp.com/images/movie4.png" width="100%">
 <h2>--會員註冊--</h2>
 <p>如下圖所示</p>
-<img src="https://20221130.000webhostapp.com/images/movie5.png" width="200">
+<img src="https://20221130.000webhostapp.com/images/movie5.png" width="100%">
 <h2>--會員登入--</h2>
 <p>如下圖所示</p>
-<img src="https://20221130.000webhostapp.com/images/movie6.png" width="200">
+<img src="https://20221130.000webhostapp.com/images/movie6.png" width="100%">
 <h2>--公廁地圖--</h2>
 <p>如下圖所示</p>
-<img src="https://20221130.000webhostapp.com/images/movie7.png" width="200">
+<img src="https://20221130.000webhostapp.com/images/movie7.png" width="100%">
 
 </body>
 </html>
