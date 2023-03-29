@@ -43,6 +43,8 @@
 <p>Leaflet 、地址、opendata(全國公廁建檔資料)、icon</p>
     <a href="https://data.gov.tw/dataset/30794">Leaflet參考資料</a>
     <a href="https://leafletjs.com/index.html">全國公廁建檔資料參考資料</a>
+    <a href="https://github.com/pointhi/leaflet-color-markers">地圖圖標參考資料</a>
+    <a href="https://github.com/Leaflet/Leaflet.markercluster#using-the-plugin">數據分析參考資料</a>
 <p>如下圖所示</p>
 <img src="https://20221130.000webhostapp.com/images/movie7.png" width="100%">
 
