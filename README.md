@@ -17,8 +17,8 @@
 <li>5.公廁地圖</li>
 
 </ul>
-<h2>--語法說明--</h2>
-<p>新增程式碼如下圖所示</p>
+<h2>--首頁--</h2>
+<p>如下圖所示</p>
 <img src="https://20221130.000webhostapp.com/images/movie.png">
 
 </body>
