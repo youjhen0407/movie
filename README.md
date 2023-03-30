@@ -37,7 +37,7 @@
 <img src="https://20221130.000webhostapp.com/images/movie4.png" width="100%">
 <h2>--會員註冊--</h2>
 <p>如下圖所示</p>
-<img src="https://20221130.000webhostapp.com/images/movie5.png" width="100%">
+<img src="\https://20221130.000webhostapp.com/images/movie5.png" width="100%">
 <h2>--會員登入--</h2>
 <p>如下圖所示</p>
 <img src="https://20221130.000webhostapp.com/images/movie6.png" width="100%">
